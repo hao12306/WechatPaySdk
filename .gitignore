@@ -1,0 +1,5 @@
+.bat
+.idea
+vendor
+test
+!test/index.php

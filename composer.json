@@ -1,0 +1,20 @@
+{
+    "name": "miaomiao/wechat-pay-sdk",
+    "description": "微信支付分账",
+    "type": "library",
+    "require": {
+        "pimple/pimple": "^3.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WechatPaySdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miaomiao",
+            "email": "1039803717@qq.com"
+        }
+    ]
+}
