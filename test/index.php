@@ -10,6 +10,6 @@ $config = [
 ];
 $payment = Factory::payment($config);
 $receiver = [
-    "name" => "张三",//接收方真实姓名
+    "name" => "xxx",
 ];
 $payment->profit_sharing->addReceiver($receiver);
